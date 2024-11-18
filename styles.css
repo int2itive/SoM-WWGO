@@ -101,6 +101,8 @@ header {
 .full-bleed {
   width: 100%;
   grid-column: 1 / 4;
+  margin-bottom: 2.5rem;
+  margin-top: 2.5rem;
 }
 
 .article--navigation {
