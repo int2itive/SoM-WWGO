@@ -49,10 +49,11 @@ p {
   /*font-size: 0.845em;*/
   font-size: 0.965rem;
   font-weight: 300;
-  line-height: 1.3;  
+  line-height: 1.5;  
 }
 
 .container p:first-of-type {
+    font-size: 1.5rem;
     font-weight: 500;
 }
 
@@ -62,6 +63,10 @@ p {
   position: relative;
   padding: 0 .5rem;
 /*   border: 1px solid #eee; */
+}
+
+.container p {
+  padding: 0;
 }
 
 .image--centered-cont {
