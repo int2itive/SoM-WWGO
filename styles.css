@@ -220,11 +220,11 @@ h1 {
   transform: rotate(-45deg) translate(35px, 35px);
 }
 
-section.text--shape-of-things p:not(:nth-child(1) {
+.text--shape-of-things p:not(:nth-child(1) {
    text-align: center;
 }
 
-section.text--shape-of-things p:nth-last-child(-n+1) {
+.text--shape-of-things p:nth-last-child(-n+1) {
    font-weight: 700;
    text-transform: uppercase;
    color: hsl(0, 67.9%, 41.6%); /* This is Firebrick */
