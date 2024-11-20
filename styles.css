@@ -224,6 +224,10 @@ h1 {
    margin-bottom: 2rem;
 }
 
+.text--shape-of-things p {
+   font-size: 1.2rem;
+}
+
 .text--shape-of-things p:not(:nth-child(1)) {
    text-align: center;
 }
